@@ -3,15 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/drawable-v24/ic_icons8_twitter_circled.xml" value="0.1455" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.103" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/drawable/custom_icon_username.xml" value="0.1575" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/drawable/custom_layout_shape.xml" value="0.1445" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/drawable/ic_launcher_background.xml" value="0.103" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/drawable/ic_lock_password.xml" value="0.1455" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/drawable/layout_shape.xml" value="0.103" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_linearlayout.xml" value="0.12638748738647831" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_login.xml" value="0.144" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_relativelayout.xml" value="0.264" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/src/flutter/flutter/platforms/android-32/data/res/drawable/ic_lock_lock.xml" value="0.1555" />
       </map>
     </option>
   </component>
