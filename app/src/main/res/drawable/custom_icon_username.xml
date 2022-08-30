@@ -2,14 +2,12 @@
 
     <item
         android:width="20dp"
-        android:height="20dp"
-        >
+        android:height="20dp">
 
         <bitmap
             android:src="@drawable/ic_username"
             android:tint="@android:color/darker_gray"
-            android:gravity="fill_vertical|fill_horizontal"
-            />
+            android:gravity="fill_vertical|fill_horizontal" />
 
     </item>
 
